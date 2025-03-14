@@ -11,10 +11,5 @@
   -webkit-mask-size: 100% 100%;
   mask-size: 100% 100%;
 }
-body {
-  background-image: url("./media/mangoo.png");
-  background-size: cover;
-  backdrop-filter: blur(5px);
 
-}
 
